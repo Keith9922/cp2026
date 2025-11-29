@@ -1,0 +1,966 @@
+[
+  {
+    "image": "./images/image_0001.webp",
+    "caption": "intro"
+  },
+  {
+    "image": "./images/image_0002.webp",
+    "caption": "intro"
+  },
+  {
+    "image": "./images/image_0003.webp",
+    "caption": "intro"
+  },
+  {
+    "image": "./images/image_0004.webp",
+    "caption": "intro"
+  },
+  {
+    "image": "./images/image_0005.webp",
+    "caption": "intro"
+  },
+  {
+    "image": "./images/image_0006.webp",
+    "caption": "intro"
+  },
+  {
+    "image": "./images/image_0007.webp",
+    "caption": "Rotating graphic"
+  },
+  {
+    "image": "./images/image_0008.webp",
+    "caption": "intro"
+  },
+  {
+    "image": "./images/image_0009.webp",
+    "caption": "intro"
+  },
+  {
+    "image": "./images/image_0010.webp",
+    "caption": "intro"
+  },
+  {
+    "image": "./images/image_0011.webp",
+    "caption": "intro"
+  },
+  {
+    "image": "./images/image_0012.webp",
+    "caption": "intro"
+  },
+  {
+    "image": "./images/image_0013.webp",
+    "caption": "MODEL"
+  },
+  {
+    "image": "./images/image_0014.webp",
+    "caption": "MODEL"
+  },
+  {
+    "image": "./images/image_0015.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0016.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0017.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0018.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0019.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0020.webp",
+    "caption": "Figure 1. Schematic diagram of the melatonin biosynthetic pathway"
+  },
+  {
+    "image": "./images/image_0021.webp",
+    "caption": "Figure 2. Flowchart of the pharmacokinetic model for space application."
+  },
+  {
+    "image": "./images/image_0022.webp",
+    "caption": "Figure 3. Schematic diagram of Bxb1/Bxb1-RDF system."
+  },
+  {
+    "image": "./images/image_0023.webp",
+    "caption": "Figure 4. Schematic diagram of red-light control system."
+  },
+  {
+    "image": "./images/image_0024.webp",
+    "caption": "Figure 5. Predicted dynamics of DNA flipping ratio and melatonin concentration over time under a 25% duty cycle using the expression model."
+  },
+  {
+    "image": "./images/image_0025.webp",
+    "caption": "Figure 6. Schematic diagram of Kill Switch System. A. Hypoxia-induced activation of toxin/antitoxin system. B. Tryptophan auxotrophic strain."
+  },
+  {
+    "image": "./images/image_0026.webp",
+    "caption": "Figure 7. Pipeline of iGEM Expert Model"
+  },
+  {
+    "image": "./images/image_0027.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0028.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0029.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0030.webp",
+    "caption": "Figure 1. Schematic diagram of the melatonin biosynthetic pathway."
+  },
+  {
+    "image": "./images/image_0031.webp",
+    "caption": "Figure 2. Construction and validation of pUC57-melatonin synthesis plasmid. A. Schematic diagram. B. Plasmid digestion and nucleic acid electrophoresis. C. RT-qPCR analysis of these four synthetic genes, normalized to 16S rRNA. All experiments were performed in triplicate."
+  },
+  {
+    "image": "./images/image_0032.webp",
+    "caption": "Figure 3. Yield analysis of melatonin synthesis by engineered bacteria. A.HPLC-MS chromatogram showing a peak consistent with the melatonin standard. B. Standard curve of melatonin standard. C.  HPLC chromatogram of purified melatonin product."
+  },
+  {
+    "image": "./images/image_0033.webp",
+    "caption": "Figure 4. Optimization of induction and substrate conditions for melatonin production. A. Effect of IPTG concentration on melatonin yield. B. Effect of tryptophan concentration on melatonin yield. All experiments were performed in triplicate."
+  },
+  {
+    "image": "./images/image_0034.webp",
+    "caption": "Figure 5. Concentration changes of melatonin and intermediate metabolites over time."
+  },
+  {
+    "image": "./images/image_0035.webp",
+    "caption": "Figure 6. Expression and Purification of HsAANAT. A. Schematic diagram of the recombinant plasmid. B. Plasmid digestion and nucleic acid electrophoresis. C. SDS-PAGE analysis of HsAANAT:Purificatied and concentrated soluble protein."
+  },
+  {
+    "image": "./images/image_0036.webp",
+    "caption": "Figure 7. Catalytic mechanism of HsAANAT. A. Proposed catalytic mechanism of HsAANAT. B. Effect of acetyl-CoA concentration on the catalytic reaction. C. Molecular docking results of HsAANAT with Ac-CoA and 5-HT, showing the lowest-energy binding conformation."
+  },
+  {
+    "image": "./images/image_0037.webp",
+    "caption": "Figure 8. Analysis of molecular dynamics simulation trajectories."
+  },
+  {
+    "image": "./images/image_0038.webp",
+    "caption": "Figure 9. Optimization of the model reaction for HsAANAT-catalyzed conversion of 5-HT to NAS. A. Schematic diagram of the model reaction system. B. HPLC-MS identification spectrum of NAS. C. Effect of different cosolvents on the reaction. D. Optimization of acetyl-CoA concentration. E. Effect of pH on enzyme activity. F. Comparison of different buffer systems. G. Optimization of enzyme concentration. H. Optimization of substrate concentration. All experiments were performed in triplicate."
+  },
+  {
+    "image": "./images/image_0039.webp",
+    "caption": "Figure 10. Deep learning–guided engineering of HsAANAT. A. Relative activity of AANAT mutants (all experiments were performed in triplicate). B. Distance between the substrate (5-HT) and residue F56 as a function of simulation time. C. Distance between the substrate (5-HT) and residue F188 as a function of simulation time."
+  },
+  {
+    "image": "./images/image_0040.webp",
+    "caption": "Figure 11. Effect of wild-type HsAANAT and mutant strain M2 on melatonin yield."
+  },
+  {
+    "image": "./images/image_0041.webp",
+    "caption": "Figure12. Mechanism of Temperature Control System at 37℃, 42℃ respectively."
+  },
+  {
+    "image": "./images/image_0042.webp",
+    "caption": "Figure 13. Plasmid construction and functional validation of the temperature-controlled reporter system. A. Schematic diagram. B. Plasmid digestion and nucleic acid electrophoresis. C. Transformation plate of E. coli BL21 with the reporter plasmid. D. Bacteria harboring the reporter system cultured at different temperatures. From left to right: control (empty vector), 37°C, 37→42°C shift, and 42°C. All experiments were performed in triplicate."
+  },
+  {
+    "image": "./images/image_0043.webp",
+    "caption": "Figure 14. Relative Expression Levels of Fluorescent Proteins under Different Temperature Conditions.All experiments were performed in triplicate."
+  },
+  {
+    "image": "./images/image_0044.webp",
+    "caption": "Figure 15. Functional Diagram of the Acoustic System."
+  },
+  {
+    "image": "./images/image_0045.webp",
+    "caption": "Figure 16. Constructions of pET28a-MscL and pET28a-Acoustic controlled plasmid"
+  },
+  {
+    "image": "./images/image_0046.webp",
+    "caption": "Figure 17. Validation of the expression of MscL"
+  },
+  {
+    "image": "./images/image_0047.webp",
+    "caption": "Figure 18. Functional analysis of acoustic-controlled system. A.OD600 change in MscL(+) and MscL(-) group. B.Fluorescence Intensity(FI) change in MscL(+) and MscL(-) group. C. qPCR analysis showing relative NhaR expression in both groups."
+  },
+  {
+    "image": "./images/image_0048.webp",
+    "caption": "Figure 19. Exploration of the functionality of acoustic system"
+  },
+  {
+    "image": "./images/image_0049.webp",
+    "caption": "Figure 20. Schematic diagram of the red-light-regulated switch. In the dark, Cph8 activates, the expression of the repressor protein CI, which blocksK1FRexpression and consequently prevents transcription of the downstreamPk1fP_{k1f}Pk1f​target gene (GFP). Under 635 nm red light, Cph8 is inactivated, stopping the expression of CI. This de-represses the downstreamK1FRgene from thePλP_{λ}Pλ​promoter, K1FR then activates thePk1fP_{k1f}Pk1f​promoter, driving target gene (GFP) expression."
+  },
+  {
+    "image": "./images/image_0050.webp",
+    "caption": "Figure 21. Functional validation of the red light-regulated switch. A. Changes in OD600 of the engineered bacteria under dark and red light conditions. B. Changes in GFP fluorescence intensity after red light induction. C. Reproducibility test: cycles of 6 h red light exposure followed by 6 h darkness. All experiments were repeated three times."
+  },
+  {
+    "image": "./images/image_0051.webp",
+    "caption": "Figure 22. Diagram of the Bxb1-RDF mechanism. A. Design of the temperature-controlled Bxb1 system. B. Flip-flop reporter mechanism: Bxb1 inverts the promoter betweenattPandattBsites, activating sfGFP expression. When Bxb1-RDF is expressed, the promoter is inverted back, switching expression to mRFP1"
+  },
+  {
+    "image": "./images/image_0052.webp",
+    "caption": "Figure 23. Bxb1-RDF System Validation. A. temperature-controlled Bxb1 plasmid digestion and nucleic acid electrophoresis. B.mRFP-attP-attB-sGFP Plasmid digestion and nucleic acid electrophoresis.C. Expression of Bxb1 and Bxb1-RDF under different temperature conditions."
+  },
+  {
+    "image": "./images/image_0053.webp",
+    "caption": "Figure 24. Fluorescence Signal Detection of Bxb1/Bxb1-RDF & Flipping system. A. Fluorescence signals detected under different culture temperatures. B. Changes in fluorescence signals during temperature-shift culture."
+  },
+  {
+    "image": "./images/image_0054.webp",
+    "caption": "Figure 25. Hypoxia-Activated Toxin-Antitoxin System. TheMazEgene is regulated by thePfnrP_{fnr}Pfnr​promoter, while the_FNr_andMazFgenes are constitutively expressed under the T7 promoter. In a low-oxygen environment, FNr dimerizes and activatesPfnrP_{fnr}Pfnr​. This results in the simultaneous expression of the antitoxin (MazE) and the toxin (MazF), which form a complex. This complexation mechanism enables the engineered bacteria to survive under hypoxia."
+  },
+  {
+    "image": "./images/image_0055.webp",
+    "caption": "Figure 26. Validation of the hypoxia-inducible reporter system. A. Schematic diagram of the hypoxia-inducible promoter. B. Plasmid digestion and nucleic acid electrophoresis. C. Engineered bacteria cultured under hypoxic and normoxic conditions. D. Relative GFP expression under hypoxia versus normoxia."
+  },
+  {
+    "image": "./images/image_0056.webp",
+    "caption": "Figure 27. Effect of the toxin-antitoxin system on bacterial growth. A.Bacterial growth with and without IPTG induction. B. Changes in OD₆₀₀ under conditions with and without IPTG induction."
+  },
+  {
+    "image": "./images/image_0057.webp",
+    "caption": "Figure 28. Tryptophan auxotrophic strain. A. Schematic diagram. B. Growth Profile on M9 Solid Media. The engineered strain showed no growth on tryptophan-deficient M9 solid medium (left), while normal growth was observed on tryptophan-supplemented medium (right). C. Changes in OD₆₀₀."
+  },
+  {
+    "image": "./images/image_0058.webp",
+    "caption": "Figure 29. Lyophilized powder of engineered bacteria."
+  },
+  {
+    "image": "./images/image_0059.webp",
+    "caption": "Figure 30. Functional characterization of the lyophilized engineered strain. A. Viability assessment by plate counting. B. Growth curves of the engineered strain before and after lyophilization. C. qPCR analysis using cDNA from the lyophilized engineered bacteria as template, normalized to 16S rRNA. D. HPLC chromatogram of melatonin . All experiments were performed in triplicate."
+  },
+  {
+    "image": "./images/image_0060.webp",
+    "caption": "overview of pipeline"
+  },
+  {
+    "image": "./images/image_0061.webp",
+    "caption": "Schematic diagram of the melatonin biosynthetic pathway"
+  },
+  {
+    "image": "./images/image_0062.webp",
+    "caption": "Diagram of Bxb1/Bxb1-RDF Mediated CDS Flipping System"
+  },
+  {
+    "image": "./images/image_0063.webp",
+    "caption": "Schematic diagram of the red-light-regulated switch"
+  },
+  {
+    "image": "./images/image_0064.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0065.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0066.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0067.webp",
+    "caption": "Yonggang Zhang"
+  },
+  {
+    "image": "./images/image_0068.webp",
+    "caption": "Yonggang Zhang"
+  },
+  {
+    "image": "./images/image_0069.webp",
+    "caption": "Yonggang Zhang"
+  },
+  {
+    "image": "./images/image_0070.webp",
+    "caption": "Yonggang Zhang"
+  },
+  {
+    "image": "./images/image_0071.webp",
+    "caption": "Yonggang Zhang"
+  },
+  {
+    "image": "./images/image_0072.webp",
+    "caption": "Yonggang Zhang"
+  },
+  {
+    "image": "./images/image_0073.webp",
+    "caption": "Yonggang Zhang"
+  },
+  {
+    "image": "./images/image_0074.webp",
+    "caption": "Yonggang Zhang"
+  },
+  {
+    "image": "./images/image_0075.webp",
+    "caption": "Zhicheng Wang"
+  },
+  {
+    "image": "./images/image_0076.webp",
+    "caption": "Zhicheng Wang"
+  },
+  {
+    "image": "./images/image_0077.webp",
+    "caption": "Zhicheng Wang"
+  },
+  {
+    "image": "./images/image_0078.webp",
+    "caption": "Fangming Gu"
+  },
+  {
+    "image": "./images/image_0079.webp",
+    "caption": "Fangming Gu"
+  },
+  {
+    "image": "./images/image_0080.webp",
+    "caption": "Fangming Gu"
+  },
+  {
+    "image": "./images/image_0081.webp",
+    "caption": "Bo Yang"
+  },
+  {
+    "image": "./images/image_0082.webp",
+    "caption": "Bo Yang"
+  },
+  {
+    "image": "./images/image_0083.webp",
+    "caption": "Bo Yang"
+  },
+  {
+    "image": "./images/image_0084.webp",
+    "caption": "Bo Yang"
+  },
+  {
+    "image": "./images/image_0085.webp",
+    "caption": "Bo Yang"
+  },
+  {
+    "image": "./images/image_0086.webp",
+    "caption": "Yannan Shen"
+  },
+  {
+    "image": "./images/image_0087.webp",
+    "caption": "Yannan Shen"
+  },
+  {
+    "image": "./images/image_0088.webp",
+    "caption": "Yannan Shen"
+  },
+  {
+    "image": "./images/image_0089.webp",
+    "caption": "Yunyun Cheng"
+  },
+  {
+    "image": "./images/image_0090.webp",
+    "caption": "Yunyun Cheng"
+  },
+  {
+    "image": "./images/image_0091.webp",
+    "caption": "Yunyun Cheng"
+  },
+  {
+    "image": "./images/image_0092.webp",
+    "caption": "Yunyun Cheng"
+  },
+  {
+    "image": "./images/image_0093.webp",
+    "caption": "Yunyun Cheng"
+  },
+  {
+    "image": "./images/image_0094.webp",
+    "caption": "Huan He"
+  },
+  {
+    "image": "./images/image_0095.webp",
+    "caption": "Huan He"
+  },
+  {
+    "image": "./images/image_0096.webp",
+    "caption": "Huan He"
+  },
+  {
+    "image": "./images/image_0097.webp",
+    "caption": "Jinhua Li"
+  },
+  {
+    "image": "./images/image_0098.webp",
+    "caption": "Jinhua Li"
+  },
+  {
+    "image": "./images/image_0099.webp",
+    "caption": "Jinhua Li"
+  },
+  {
+    "image": "./images/image_0100.webp",
+    "caption": "Yu Fu"
+  },
+  {
+    "image": "./images/image_0101.webp",
+    "caption": "Yu Fu"
+  },
+  {
+    "image": "./images/image_0102.webp",
+    "caption": "Yu Fu"
+  },
+  {
+    "image": "./images/image_0103.webp",
+    "caption": "Yu Fu"
+  },
+  {
+    "image": "./images/image_0104.webp",
+    "caption": "Yu Fu"
+  },
+  {
+    "image": "./images/image_0105.webp",
+    "caption": "Haobo Lin"
+  },
+  {
+    "image": "./images/image_0106.webp",
+    "caption": "Haobo Lin"
+  },
+  {
+    "image": "./images/image_0107.webp",
+    "caption": "Haobo Lin"
+  },
+  {
+    "image": "./images/image_0108.webp",
+    "caption": "Yalin Zhu"
+  },
+  {
+    "image": "./images/image_0109.webp",
+    "caption": "Yalin Zhu"
+  },
+  {
+    "image": "./images/image_0110.webp",
+    "caption": "Yalin Zhu"
+  },
+  {
+    "image": "./images/image_0111.webp",
+    "caption": "Yalin Zhu"
+  },
+  {
+    "image": "./images/image_0112.webp",
+    "caption": "Yalin Zhu"
+  },
+  {
+    "image": "./images/image_0113.webp",
+    "caption": "Zhiqi Zhang"
+  },
+  {
+    "image": "./images/image_0114.webp",
+    "caption": "Zhiqi Zhang"
+  },
+  {
+    "image": "./images/image_0115.webp",
+    "caption": "Zhiqi Zhang"
+  },
+  {
+    "image": "./images/image_0116.webp",
+    "caption": "Jingyi Kang"
+  },
+  {
+    "image": "./images/image_0117.webp",
+    "caption": "Jingyi Kang"
+  },
+  {
+    "image": "./images/image_0118.webp",
+    "caption": "Jingyi Kang"
+  },
+  {
+    "image": "./images/image_0119.webp",
+    "caption": "Chen Chen"
+  },
+  {
+    "image": "./images/image_0120.webp",
+    "caption": "Chen Chen"
+  },
+  {
+    "image": "./images/image_0121.webp",
+    "caption": "Chen Chen"
+  },
+  {
+    "image": "./images/image_0122.webp",
+    "caption": "Zhiyuan Jin"
+  },
+  {
+    "image": "./images/image_0123.webp",
+    "caption": "Zhiyuan Jin"
+  },
+  {
+    "image": "./images/image_0124.webp",
+    "caption": "Zhiyuan Jin"
+  },
+  {
+    "image": "./images/image_0125.webp",
+    "caption": "Weishan Du"
+  },
+  {
+    "image": "./images/image_0126.webp",
+    "caption": "Weishan Du"
+  },
+  {
+    "image": "./images/image_0127.webp",
+    "caption": "Weishan Du"
+  },
+  {
+    "image": "./images/image_0128.webp",
+    "caption": "Xuanhao Chang"
+  },
+  {
+    "image": "./images/image_0129.webp",
+    "caption": "Xuanhao Chang"
+  },
+  {
+    "image": "./images/image_0130.webp",
+    "caption": "Xuanhao Chang"
+  },
+  {
+    "image": "./images/image_0131.webp",
+    "caption": "Gong Kai"
+  },
+  {
+    "image": "./images/image_0132.webp",
+    "caption": "Gong Kai"
+  },
+  {
+    "image": "./images/image_0133.webp",
+    "caption": "Gong Kai"
+  },
+  {
+    "image": "./images/image_0134.webp",
+    "caption": "Yutong Li"
+  },
+  {
+    "image": "./images/image_0135.webp",
+    "caption": "Yutong Li"
+  },
+  {
+    "image": "./images/image_0136.webp",
+    "caption": "Yutong Li"
+  },
+  {
+    "image": "./images/image_0137.webp",
+    "caption": "Zhichao Li"
+  },
+  {
+    "image": "./images/image_0138.webp",
+    "caption": "Zhichao Li"
+  },
+  {
+    "image": "./images/image_0139.webp",
+    "caption": "Zhichao Li"
+  },
+  {
+    "image": "./images/image_0140.webp",
+    "caption": "Tianqi Wang"
+  },
+  {
+    "image": "./images/image_0141.webp",
+    "caption": "Tianqi Wang"
+  },
+  {
+    "image": "./images/image_0142.webp",
+    "caption": "Tianqi Wang"
+  },
+  {
+    "image": "./images/image_0143.webp",
+    "caption": "Chenjiao Diao"
+  },
+  {
+    "image": "./images/image_0144.webp",
+    "caption": "Chenjiao Diao"
+  },
+  {
+    "image": "./images/image_0145.webp",
+    "caption": "Chenjiao Diao"
+  },
+  {
+    "image": "./images/image_0146.webp",
+    "caption": "Yuxuan He"
+  },
+  {
+    "image": "./images/image_0147.webp",
+    "caption": "Yuxuan He"
+  },
+  {
+    "image": "./images/image_0148.webp",
+    "caption": "Yuxuan He"
+  },
+  {
+    "image": "./images/image_0149.webp",
+    "caption": "Kaiwen Zheng"
+  },
+  {
+    "image": "./images/image_0150.webp",
+    "caption": "Kaiwen Zheng"
+  },
+  {
+    "image": "./images/image_0151.webp",
+    "caption": "Kaiwen Zheng"
+  },
+  {
+    "image": "./images/image_0152.webp",
+    "caption": "Xinyi Wang"
+  },
+  {
+    "image": "./images/image_0153.webp",
+    "caption": "Xinyi Wang"
+  },
+  {
+    "image": "./images/image_0154.webp",
+    "caption": "Xinyi Wang"
+  },
+  {
+    "image": "./images/image_0155.webp",
+    "caption": "Tong Cui"
+  },
+  {
+    "image": "./images/image_0156.webp",
+    "caption": "Tong Cui"
+  },
+  {
+    "image": "./images/image_0157.webp",
+    "caption": "Tong Cui"
+  },
+  {
+    "image": "./images/image_0158.webp",
+    "caption": "Feiran Yu"
+  },
+  {
+    "image": "./images/image_0159.webp",
+    "caption": "Feiran Yu"
+  },
+  {
+    "image": "./images/image_0160.webp",
+    "caption": "Feiran Yu"
+  },
+  {
+    "image": "./images/image_0161.webp",
+    "caption": "Ronggang Zhang"
+  },
+  {
+    "image": "./images/image_0162.webp",
+    "caption": "Ronggang Zhang"
+  },
+  {
+    "image": "./images/image_0163.webp",
+    "caption": "Ronggang Zhang"
+  },
+  {
+    "image": "./images/image_0164.webp",
+    "caption": "Yiran Huang"
+  },
+  {
+    "image": "./images/image_0165.webp",
+    "caption": "Yiran Huang"
+  },
+  {
+    "image": "./images/image_0166.webp",
+    "caption": "Yiran Huang"
+  },
+  {
+    "image": "./images/image_0167.webp",
+    "caption": "Chanjuan Jin"
+  },
+  {
+    "image": "./images/image_0168.webp",
+    "caption": "Chanjuan Jin"
+  },
+  {
+    "image": "./images/image_0169.webp",
+    "caption": "Chanjuan Jin"
+  },
+  {
+    "image": "./images/image_0170.webp",
+    "caption": "Chanjuan Jin"
+  },
+  {
+    "image": "./images/image_0171.webp",
+    "caption": "Chanjuan Jin"
+  },
+  {
+    "image": "./images/image_0172.webp",
+    "caption": "Jiarui Bi"
+  },
+  {
+    "image": "./images/image_0173.webp",
+    "caption": "Jiarui Bi"
+  },
+  {
+    "image": "./images/image_0174.webp",
+    "caption": "Jiarui Bi"
+  },
+  {
+    "image": "./images/image_0175.webp",
+    "caption": "Biyang Sun"
+  },
+  {
+    "image": "./images/image_0176.webp",
+    "caption": "Biyang Sun"
+  },
+  {
+    "image": "./images/image_0177.webp",
+    "caption": "Biyang Sun"
+  },
+  {
+    "image": "./images/image_0178.webp",
+    "caption": "Runfeng Pan"
+  },
+  {
+    "image": "./images/image_0179.webp",
+    "caption": "Runfeng Pan"
+  },
+  {
+    "image": "./images/image_0180.webp",
+    "caption": "Runfeng Pan"
+  },
+  {
+    "image": "./images/image_0181.webp",
+    "caption": "Jiyu Zhang"
+  },
+  {
+    "image": "./images/image_0182.webp",
+    "caption": "Jiyu Zhang"
+  },
+  {
+    "image": "./images/image_0183.webp",
+    "caption": "Jiyu Zhang"
+  },
+  {
+    "image": "./images/image_0184.webp",
+    "caption": "Haoqing Dou"
+  },
+  {
+    "image": "./images/image_0185.webp",
+    "caption": "Haoqing Dou"
+  },
+  {
+    "image": "./images/image_0186.webp",
+    "caption": "Haoqing Dou"
+  },
+  {
+    "image": "./images/image_0187.webp",
+    "caption": "Jinping Yin"
+  },
+  {
+    "image": "./images/image_0188.webp",
+    "caption": "Jinping Yin"
+  },
+  {
+    "image": "./images/image_0189.webp",
+    "caption": "Jinping Yin"
+  },
+  {
+    "image": "./images/image_0190.webp",
+    "caption": "Yueran cui"
+  },
+  {
+    "image": "./images/image_0191.webp",
+    "caption": "Yueran cui"
+  },
+  {
+    "image": "./images/image_0192.webp",
+    "caption": "Yueran cui"
+  },
+  {
+    "image": "./images/image_0193.webp",
+    "caption": "Jie Feng"
+  },
+  {
+    "image": "./images/image_0194.webp",
+    "caption": "Jie Feng"
+  },
+  {
+    "image": "./images/image_0195.webp",
+    "caption": "Jie Feng"
+  },
+  {
+    "image": "./images/image_0196.webp",
+    "caption": "Weiqiang Xu"
+  },
+  {
+    "image": "./images/image_0197.webp",
+    "caption": "Weiqiang Xu"
+  },
+  {
+    "image": "./images/image_0198.webp",
+    "caption": "Weiqiang Xu"
+  },
+  {
+    "image": "./images/image_0199.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0200.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0201.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0202.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0203.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0204.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0205.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0206.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0207.webp",
+    "caption": "DBTL cycle in human practices."
+  },
+  {
+    "image": "./images/image_0208.webp",
+    "caption": "Mendelow's Matrix."
+  },
+  {
+    "image": "./images/image_0209.webp",
+    "caption": "iEMOTIONS."
+  },
+  {
+    "image": "./images/image_0210.webp",
+    "caption": "Associate Chief Physician Doctor Wenjing Xie (middle), Department of Neurology, Bethune Second Hospital of Jilin University."
+  },
+  {
+    "image": "./images/image_0211.webp",
+    "caption": "Dr. Wenjing Xie engaging in an in-depth discussion with one of our teammates."
+  },
+  {
+    "image": "./images/image_0212.webp",
+    "caption": "PhD. Wen Kai (Right) from the College of Life Sciences, Jilin University, providing guidance to our team members."
+  },
+  {
+    "image": "./images/image_0213.webp",
+    "caption": "Dr. Zhenjing Jin (middle), Director of the Department of Gastroenterology and Interventional Medicine, the Second Bethune Hospital of Jilin University."
+  },
+  {
+    "image": "./images/image_0214.webp",
+    "caption": "Dr. Zhenjing Jin engaging in an in-depth discussion with one of our teammates."
+  },
+  {
+    "image": "./images/image_0215.webp",
+    "caption": "Associate Professor Hui Li (middle), School of Public Health, Jilin University."
+  },
+  {
+    "image": "./images/image_0216.webp",
+    "caption": "Professor Haiqing Ye discussing with our team members."
+  },
+  {
+    "image": "./images/image_0217.webp",
+    "caption": "Ms.Hao Wu (right), Chief Operating Officer (COO) and Chief Quality Officer (CQO), Jilin Guojian Biotechnology Co., Ltd."
+  },
+  {
+    "image": "./images/image_0218.webp",
+    "caption": "Doctor Yiyin Gao (middle), Resident Physician, Department of Endocrinology, Second Bethune Hospital of Jilin University"
+  },
+  {
+    "image": "./images/image_0219.webp",
+    "caption": "Dr. Yiyin Gao engaging in an in-depth discussion with one of our teammates."
+  },
+  {
+    "image": "./images/image_0220.webp",
+    "caption": "Prof. Hongjia Ma (right), School of Business and Management, Jilin University"
+  },
+  {
+    "image": "./images/image_0221.webp",
+    "caption": "Stacked Bar Chart of Basic Information."
+  },
+  {
+    "image": "./images/image_0222.webp",
+    "caption": "Runway Chart (Left: Types of Purchased Products; Right: Purchasing Channels)."
+  },
+  {
+    "image": "./images/image_0223.webp",
+    "caption": "SHAP Value Beeswarm Plot."
+  },
+  {
+    "image": "./images/image_0224.webp",
+    "caption": "Figure 1. Schematic diagram of the melatonin biosynthetic pathway"
+  },
+  {
+    "image": "./images/image_0225.webp",
+    "caption": "Figure 2.Construction and validation of melatonin synthesis system. A.Schematic diagram of pUC57-melatonin synthesis plasmid. B.RT-qPCR analysis of the four synthetic genes, normalized to 16S rRNA. All experiments were performed in triplicate. C.Concentration changes of melatonin and intermediate metabolites over time."
+  },
+  {
+    "image": "./images/image_0226.webp",
+    "caption": "Figure 3. Schematic of the Computational Modeling Workflow"
+  },
+  {
+    "image": "./images/image_0227.webp",
+    "caption": "Figure 4. Flowchart of the pharmacokinetic model for space application."
+  },
+  {
+    "image": "./images/image_0228.webp",
+    "caption": "Figure 5. A.Relative catalytic activity of wild-type and mutant enzymes. B.Effect of wild-type HsAANAT and mutant strain M2 on melatonin yield."
+  },
+  {
+    "image": "./images/image_0229.webp",
+    "caption": "Figure 6.Functional Diagram of the Acoustic System."
+  },
+  {
+    "image": "./images/image_0230.webp",
+    "caption": "Figure 7. Interface or conceptual diagram of the iTutor model."
+  },
+  {
+    "image": "./images/image_0231.webp",
+    "caption": "Figure 8. A scene from our space-themed science popularization event."
+  },
+  {
+    "image": "./images/image_0232.webp",
+    "caption": "Melatonin production prediction for duty cycle 0.50"
+  },
+  {
+    "image": "./images/image_0233.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0234.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0235.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0236.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0237.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0238.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0239.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0240.webp",
+    "caption": "College of Computer Science and Technology"
+  },
+  {
+    "image": "./images/image_0241.webp",
+    "caption": "College of Computer Science and Technology"
+  }
+]

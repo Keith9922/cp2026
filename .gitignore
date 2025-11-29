@@ -7,9 +7,6 @@ __pycache__/
 .Python
 
 # 爬虫输出
-images/
-dataset.json
-crawler.log
 *.zip
 
 # IDE
